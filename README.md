@@ -1,7 +1,5 @@
 # Fake-News-Detection
-Using Machine Learning and Natural Language Processing to train the classifier to detect the genuinity of the news article.
+This project involves the use of Natural Language Processing to find if the article is related or unrelated, and Machine Learning to train the classifier for detecting the class of the article, if it is related.
 
-testing 'Sample code' :-
+To run the sample code: 
 python demo.py
-
-
